@@ -12,7 +12,7 @@
     - SQLAlchemy
     - Flask
 
-## Technical Techniques
+## Technical Skills
 - Connecting between different file types (.sqlite, .py)
 - Interpreting raw data
 - Data analysis and visualization
