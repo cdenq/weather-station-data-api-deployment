@@ -1,4 +1,4 @@
-# weather-station-data-flask-development
+# weather-station-data-api-deployment
 ## About Surfs Up!
 
 `Surfs Up` is a SQLite / SQLAlchemy / Flask challenge that reads a SQLite into Python's Pandas, performs data analysis and visualization, and then exports the information to a Flask API server.
